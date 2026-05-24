@@ -15,6 +15,10 @@ README.md
 5. Opened the repository in Cursor.
 6. Created this README.md file to document the process.
 
+## AI Tools Tested
+- Installed and explored Claude Code extension inside Cursor.
+- Installed and explored Codex extension inside Cursor.
+
 ## Issues Faced
 - I was new to connecting GitHub with Cursor.
 - I had to understand the basic GitHub workflow.
